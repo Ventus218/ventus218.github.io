@@ -39,7 +39,7 @@
 ##### *Ottobre 2023*
 > Laurea triennale in Ingegneria e Scienze Informatiche (106/110)
 >
-> Tesi: **ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO**
+> Tesi: [**ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO**](https://amslaurea.unibo.it/29785/)
 
 ##### *Settembre 2023 - ad oggi*
 > Studio presso il corso magistrale di Ingegneria e Scienze Informatiche nella sede di Cesena dell'Università di Bologna

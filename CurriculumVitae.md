@@ -1,88 +1,94 @@
 <h1 style="text-align:center; font-size:30px"> Curriculum Vitae - Alessandro Venturini</h1>
 
-
-## Informazioni personali
-
-<img src="images/me2.jpg" alt="Alessandro Venturini" style="padding: 5px 15px; width: 200px; float: right;">
+## Personal information
 
 > |||
-> |-----------------------|---------------------------|
-> |Nome                   |**Alessandro Venturini**|
-> |Data di nascita        |**21/08/2000**|
-> |Nazionalità            |**Italiana**|
-> |Indirizzo              |**Via Riva di Reno 126 (Bologna)**|
-> |E-mail                 |**ales.ventus21@gmail.com**|
-> |Telefono               |**331 3534898**|
-> |GitHub                 |**[Ventus218](https://github.com/Ventus218)**|
+> | ------------- | -------------------------------------------------------------- |
+> | Name          | **Alessandro Venturini**                                       |
+> | Date of Birth | **21/08/2000**                                                 |
+> | Nationality   | **Italian**                                                    |
+> | Address       | **Via Riva di Reno 126 (Bologna)**                             |
+> | E-mail        | **[ales.ventus21@gmail.com](mailto\:ales.ventus21@gmail.com)** |
+> | Phone         | **331 3534898**                                                |
+> | GitHub        | **[Ventus218](https://github.com/Ventus218)**                  |
+
+## Work experience
+
+##### *March 2023 - June 2023*
+
+> 150-hour curricular internship at [Oltre Solutions s.r.l.](https://www.oltresolutions.com) where I rewrote an Android application and ported it to iOS using Xamarin.Forms.
 >
+> The application is currently in production on the [App Store](https://apps.apple.com/it/app/load-manager/id6448108872?platform=iphone).
 
+## Education
 
-## Esperienza lavorativa
+##### *July 2019*
 
-##### *Marzo 2023 - Giugno 2023*
-> Tirocinio curricolare di 150 ore svolto presso [Oltre Solutions s.r.l.](https://www.oltresolutions.com) durante il quale ho riscritto un'applicazione Android portandola anche su iOS utilizzando Xamarin.Forms.
+> Graduated from Liceo Scientifico Augusto Righi in Bologna
+
+##### *September 2019 - September 2021*
+
+> Attending bachelor's degree program in computer engineering at the University of Bologna
+
+##### *September 2021 - June 2023*
+
+> Attending bachelor's degree program in Computer Engineering and Computer Science at the University of Bologna
+
+##### *October 2023*
+
+> Bachelor’s degree in Computer Engineering and Computer Science (106/110)
 >
-> L'applicazione è attualmente in production sull'[App Store](https://apps.apple.com/it/app/load-manager/id6448108872?platform=iphone).
+> Thesis: **[ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO](https://amslaurea.unibo.it/29785/)**
 
+##### *September 2023 - Present*
 
-## Istruzione e formazione
+> Pursuing a master’s degree in Computer Engineering and Computer Science at the University of Bologna
 
-##### *Luglio 2019*
-> Diploma presso Liceo Scientifico Augusto Righi di Bologna
+## Personal skills and experience
 
-##### *Settembre 2019 - Settembre 2021*
-> Studio presso il corso di Ingegneria Informatica all'Università di Bologna
+##### Native language
 
-##### *Settembre 2021 - Giugno 2023*
-> Studio presso il corso triennale di Ingegneria e Scienze Informatiche nella sede di Cesena dell'Università di Bologna
+> Italian
 
-##### *Ottobre 2023*
-> Laurea triennale in Ingegneria e Scienze Informatiche (106/110)
+##### Other languages
+
+> - English:
+>   - Reading Comprehension: **Very Good**
+>   - Writing Skills: **Very Good**
+>   - Oral Expression: **Good**
+
+##### Personal growth
+
+> ##### *September 2018 - 2023*
 >
-> Tesi: [**ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO**](https://amslaurea.unibo.it/29785/)
+> Participation in the continuous personal growth program *Soft Skills Academy*
 
-##### *Settembre 2023 - ad oggi*
-> Studio presso il corso magistrale di Ingegneria e Scienze Informatiche nella sede di Cesena dell'Università di Bologna
+## Technical skills
 
+##### Programming, markup, and style languages
 
-## Capacità ed esperienze personali
+> | Language       | Level         |
+> | -------------- | ------------- |
+> | Scala          | **Advanced** |
+> | Swift          | **Advanced** |
+> | Java           | **Advanced** |
+> | C#             | **Proficient** |
+> | C              | **Proficient** |
+> | SQL            | **Proficient** |
+> | Shell          | **Proficient** |
+> | Markdown (.md) | **Proficient** |
+> | HTML           | **Proficient** |
+> | CSS            | **Proficient** |
+> | Python         | **Intermediate** |
+> | Javascript     | **Intermediate** |
+> | PHP            | **Intermediate** |
+> | Gleam          | **Intermediate** |
+> | Prolog         | **Beginner**     |
+> | Typescript     | **Beginner**     |
 
-##### Madrelingua
-> Italiano
+##### Technologies
 
-##### Altre lingue
-> |Inglese|Livello|
-> |------------------------------------|-----------|
-> |Capacità di lettura                 |**Molto Buono**|
-> |Capacità di scrittura               |**Molto Buono**|
-> |Capacità di espressione orale       |**Buono**|
-
-##### Formazione personale
-> ##### *Settembre 2018 - ad oggi*
-> Partecipazione al percorso continuo di formazione *Soft Skills Academy*
-
-
-## Competenze informatiche
-
-##### Linguaggi di programmazione, markup e stile
-> |Linguaggio|Livello|
-> |---------------------|-----------|
-> |Swift                |**Ottimo**|
-> |Java                 |**Molto Buono**|
-> |C#                   |**Molto Buono**|
-> |C                    |**Molto Buono**|
-> |SQL                  |**Molto Buono**|
-> |Shell                |**Molto Buono**|
-> |Markdown (.md)       |**Molto Buono**|
-> |HTML                 |**Molto Buono**|
-> |CSS                  |**Molto Buono**|
-> |Python               |**Buono**|
-> |Javascript           |**Buono**|
-> |PHP                  |**Buono**|
-> |Typescript           |**Base**|
-
-##### Tecnologie
-> - Sistemi operativi:
+> - Operating Systems:
 >   - MacOS
 >   - Linux
 >   - Windows
@@ -93,71 +99,51 @@
 >   - DB2
 >
 > - IDE:
+>   - VisualStudioCode
 >   - XCode
 >   - VisualStudio
->   - VisualStudioCode
 >   - IntelliJ IDEA
 >   - Eclipse
->   - DataGrip (Base)
+>   - DataGrip (Beginner)
 >
-> - Framework:
+> - Frameworks:
 >   - SwiftUI (iOS)
 >   - UIKit (iOS)
->   - [Vapor](https://github.com/vapor/vapor) (Sever Side Swift)
+>   - [Vapor](https://github.com/vapor/vapor) (Server Side Swift)
 >   - Xamarin.Forms
 >   - .NET MAUI
->   - JavaFX (Base)
->   - Bootstrap (Base)
+>   - Akka
+>   - Vue (Beginner)
+>   - JavaFX (Beginner)
+>   - Bootstrap (Beginner)
 >
 > - Git
->
 > - Docker
+> - Docker compose
+> - Kubernetes
+> - Kafka (Beginner)
+> - Unity and Game Development (Beginner)
+> - Terraform (Beginner)
+> - VirtualBox (Beginner)
+
+## Projects
+
+I have always enjoyed developing personal projects to grow my technical skills. You can explore some of the ones I’m most proud of on [my GitHub profile](https://github.com/Ventus218).
+
+## Additional information
+
+##### Driver’s license
+
+> B (Owns a car)
+
+##### About me
+
+> I am deeply passionate about Computer Science, with a strong focus on its engineering aspects. I am curious, tenacious and I always strive to add a personal touch into my work.
 >
-> - Unity e game development (Base)
->
-> - Kubernetes (Base)
->
-> - Terraform (Base)
->
-> - VirtualBox (Base)
-
-## Progetti in *production*
-
-### [Salus Carichi](https://salus-carichi.ddns.net) (Per l'azienda di famiglia)
-> Duo di applicazioni iOS (e relativo backend) sviluppate per andare a migliorare il processo di lavoro, l'organizzazione delle spedizioni, e ridurre il numero di errori umani all'interno di un'azienda di distribuzione di bevande.
-
-### [TOC-it](https://github.com/Ventus218/TOC-it) (Open source)
-> [Web utility](https://ventus218.github.io/TOC-it/) per generare la *table of contents* di un documento Markdown.
-
-### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Open source)
-> Utility per ottenere a runtime la versione installata di Swift
-
-## Progetti universitari
-
-### [AllGames](https://github.com/Ventus218/AllGames)
-> Social network a tema "Videogiochi" sviluppato utilizzando lo stack Xampp.
-
-### [F1antasy](https://github.com/Ventus218/F1antasy-App)
-> Gioco della categoria *fantasy* sul mondo della Formula 1
-
-### [Markdown TOC Online](https://github.com/Ventus218/markdown-toc-online)
-> Strumento utilizzabile come pagina web o web API per generare la *table of contents* di un documento in markdown.
->
-> La parte funzionale del progetto è stato solo un pretesto per mettere in pratica concetti di Docker, Kubernetes e Terraform 
-
-### [Smart Room](https://github.com/Ventus218/Smart-Room/blob/main/doc/Documentation.md)
-> Progetto riguardante l'ambito dei sistemi embedded e IOT.
->
-> Viene simulato un sistema che utilizza Arduino, un ESP32 e i protocolli MQTT e HTTP per la gestione di una stanza con luci e tapparelle smart.
-> Il sistema può essere controllato attravero un'interfaccia web oppure via Bluetooth grazie ad un'applicazione Android.
-
-
-## Altro
-
-##### Patente
-> B (Automunito)
-
-##### Informazioni su di me
-> Sono innamorato dell'Informatica. Sono curioso, tenace e tengo tanto a mettere sempre qualcosa di mio in ciò che faccio.
+> My top two priorities are:
+> - Delivering high-quality software is my top priority, and I am committed to continuous improvement in every project I undertake.
+> - Enjoying work and building meaningful relationships with my colleagues.
 > 
-> Per me è molto importante stringere bei rapporti con le persone che ho attorno.
+> Currently, I am particularly intrigued by functional programming and its potential to increase software quality.
+>
+> Looking ahead, I'd like to contribute to the development of software or tools to be used by developers.

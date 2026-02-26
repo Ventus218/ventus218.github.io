@@ -4,47 +4,54 @@
 
 > <img src="./images/me3.jpg" alt="Alessandro Venturini" style="padding: 5px 15px; width: 175px; float: right;">
 >
-> |||
-> | ------------- | -------------------------------------------------------------- |
-> | Name          | **Alessandro Venturini**                                       |
-> | Date of Birth | **21/08/2000**                                                 |
-> | Nationality   | **Italian**                                                    |
-> | Address       | **Via Riva di Reno 126 (Bologna)**                             |
-> | E-mail        | **[ales.ventus21@gmail.com](mailto\:ales.ventus21@gmail.com)** |
-> | Phone         | **331 3534898**                                                |
-> | GitHub        | **[Ventus218](https://github.com/Ventus218)**                  |
+> |               |                                                               |
+> | ------------- | ------------------------------------------------------------- |
+> | Name          | **Alessandro Venturini**                                      |
+> | Date of Birth | **21/08/2000**                                                |
+> | Nationality   | **Italian**                                                   |
+> | Address       | **Via Riva di Reno 126 (Bologna)**                            |
+> | E-mail        | **[ales.ventus21@gmail.com](mailto:ales.ventus21@gmail.com)** |
+> | Phone         | **331 3534898**                                               |
+> | GitHub        | **[Ventus218](https://github.com/Ventus218)**                 |
 
 ## Work experience
 
-##### *March 2023 - June 2023*
+##### _March 2023 - June 2023_
 
-> 150-hour curricular internship at [Oltre Solutions s.r.l.](https://www.oltresolutions.com) where I rewrote an Android application and ported it to iOS using Xamarin.Forms.
+> 150-hour curricular internship at
+> [Oltre Solutions s.r.l.](https://www.oltresolutions.com) where I rewrote an
+> Android application and ported it to iOS using Xamarin.Forms.
 >
-> The application is currently in production on the [App Store](https://apps.apple.com/it/app/load-manager/id6448108872?platform=iphone).
+> The application is currently in production on the
+> [App Store](https://apps.apple.com/it/app/load-manager/id6448108872?platform=iphone).
 
 ## Education
 
-##### *July 2019*
+##### _July 2019_
 
 > Graduated from Liceo Scientifico Augusto Righi in Bologna
 
-##### *September 2019 - September 2021*
+##### _September 2019 - September 2021_
 
-> Attending bachelor's degree program in computer engineering at the University of Bologna
+> Attending bachelor's degree program in Computer Engineering at the University
+> of Bologna
 
-##### *September 2021 - June 2023*
+##### _September 2021 - June 2023_
 
-> Attending bachelor's degree program in Computer Engineering and Computer Science at the University of Bologna
+> Attending bachelor's degree program in Computer Engineering and Science at the
+> University of Bologna
 
-##### *October 2023*
+##### _October 2023_
 
-> Bachelor’s degree in Computer Engineering and Computer Science (106/110)
+> Bachelor’s degree in Computer Engineering and Science (106/110)
 >
-> Thesis: **[ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO](https://amslaurea.unibo.it/29785/)**
+> Thesis:
+> **[ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO](https://amslaurea.unibo.it/29785/)**
 
-##### *September 2023 - Present*
+##### _September 2023 - Present_
 
-> Pursuing a master’s degree in Computer Engineering and Computer Science at the University of Bologna
+> Pursuing a master’s degree in Computer Engineering and Science at the
+> University of Bologna
 
 ## Personal skills and experience
 
@@ -54,39 +61,40 @@
 
 ##### Other languages
 
-> - English:
+> - English (B2):
 >   - Reading Comprehension: **Very Good**
 >   - Writing Skills: **Very Good**
 >   - Oral Expression: **Good**
 
 ##### Personal growth
 
-> ##### *September 2018 - 2023*
+> ##### _September 2018 - 2023_
 >
-> Participation in the continuous personal growth program *Soft Skills Academy*
+> Participation in the continuous personal growth program _Soft Skills Academy_
 
 ## Technical skills
 
 ##### Programming, markup, and style languages
 
-> | Language       | Level         |
-> | -------------- | ------------- |
-> | Scala          | **Advanced** |
-> | Swift          | **Advanced** |
-> | Java           | **Advanced** |
-> | C#             | **Proficient** |
-> | C              | **Proficient** |
-> | SQL            | **Proficient** |
-> | Shell          | **Proficient** |
-> | Markdown (.md) | **Proficient** |
-> | HTML           | **Proficient** |
-> | CSS            | **Proficient** |
+> | Language       | Level            |
+> | -------------- | ---------------- |
+> | Scala          | **Advanced**     |
+> | Swift          | **Advanced**     |
+> | Java           | **Advanced**     |
+> | C#             | **Proficient**   |
+> | C              | **Proficient**   |
+> | Typescript     | **Proficient**   |
+> | SQL            | **Proficient**   |
+> | Shell          | **Proficient**   |
+> | Markdown (.md) | **Proficient**   |
+> | HTML           | **Proficient**   |
+> | CSS            | **Proficient**   |
 > | Python         | **Intermediate** |
 > | Javascript     | **Intermediate** |
 > | PHP            | **Intermediate** |
 > | Gleam          | **Intermediate** |
+> | Lua            | **Beginner**     |
 > | Prolog         | **Beginner**     |
-> | Typescript     | **Beginner**     |
 
 ##### Technologies
 
@@ -94,20 +102,19 @@
 >   - MacOS
 >   - Linux
 >   - Windows
->
 > - DBMS:
 >   - PostgreSQL
 >   - MySQL
+>   - MongoDB
 >   - DB2
->
 > - IDE:
+>   - NeoVim
 >   - VisualStudioCode
 >   - XCode
 >   - VisualStudio
 >   - IntelliJ IDEA
 >   - Eclipse
 >   - DataGrip (Beginner)
->
 > - Frameworks:
 >   - SwiftUI (iOS)
 >   - UIKit (iOS)
@@ -115,10 +122,10 @@
 >   - Xamarin.Forms
 >   - .NET MAUI
 >   - Akka
->   - Vue (Beginner)
+>   - Vue
+>   - Express
 >   - JavaFX (Beginner)
 >   - Bootstrap (Beginner)
->
 > - Git
 > - Docker
 > - Docker compose
@@ -130,7 +137,9 @@
 
 ## Projects
 
-I have always enjoyed developing personal projects to grow my technical skills. You can explore some of the ones I’m most proud of on [my GitHub profile](https://github.com/Ventus218).
+I have always enjoyed developing personal projects to grow my technical skills.
+You can explore some of the ones I’m most proud of on
+[my GitHub profile](https://github.com/Ventus218).
 
 ## Additional information
 
@@ -140,12 +149,18 @@ I have always enjoyed developing personal projects to grow my technical skills. 
 
 ##### About me
 
-> I am deeply passionate about Computer Science, with a strong focus on its engineering aspects. I am curious, tenacious and I always strive to add a personal touch into my work.
+> I am deeply passionate about Computer Science, with a strong focus on its
+> engineering aspects. I am curious, tenacious and I always strive to add a
+> personal touch into my work.
 >
 > My top two priorities are:
-> - Delivering high-quality software is my top priority, and I am committed to continuous improvement in every project I undertake.
-> - Enjoying work and building meaningful relationships with my colleagues.
-> 
-> Currently, I am particularly intrigued by functional programming and its potential to increase software quality.
 >
-> Looking ahead, I'd like to contribute to the development of software or tools to be used by developers.
+> - Delivering high-quality software is my top priority, and I am committed to
+>   continuous improvement in every project I undertake.
+> - Enjoying work and building meaningful relationships with my colleagues.
+>
+> I am really passionate about functional programming and its potential to
+> increase software quality.
+>
+> Looking ahead, I'd like to contribute to the development of software or tools
+> to be used by developers.

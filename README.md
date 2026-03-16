@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alessandro
 
-I'm a Computer Science and Engineering student at Bologna University in Italy🇮🇹
+M.Sc. in Computer Science and Engineering | University of Bologna, Italy🇮🇹
 
 I'm in love with programming and I'm really fascinated by the open source world.
 
@@ -19,15 +19,6 @@ down below!
 #### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Open source)
 
 > Utility to detect the installed Swift version at runtime.
-
-### No longer in production
-
-#### [Salus Carichi](https://salus-carichi.ddns.net) (Closed source)
-
-> A system made of a Vapor web server and two iOS apps developed to enhance the
-> workflow, streamline shipment organization, and reduce the occurrence of human
-> errors within a beverage distribution company (family business) in Bologna
-> (Italy).
 
 ### University projects
 

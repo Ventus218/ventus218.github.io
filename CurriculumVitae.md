@@ -43,15 +43,32 @@
 
 ##### _October 2023_
 
-> Bachelor’s degree in Computer Engineering and Science (106/110)
+> Bachelor’s degree in Computer Engineering and Science at the University of
+> Bologna
+>
+> Final grade: 106/110
 >
 > Thesis:
 > **[ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO](https://amslaurea.unibo.it/29785/)**
 
-##### _September 2023 - Present_
+##### _September 2023 - June 2025_
 
-> Pursuing a master’s degree in Computer Engineering and Science at the
+> Attending master's degree program in Computer Engineering and Science at the
 > University of Bologna
+
+##### _March 2026_
+
+> Master’s degree in Computer Engineering and Science at the University of
+> Bologna
+>
+> Final grade: 110/110 cum laude
+>
+> Grade point average: 29.87/30
+>
+> Thesis: **Effectful Aggregate Computation: towards a monadic view**
+>
+> (My thesis is currently under embargo, but additional details can be shared
+> upon request.)
 
 ## Personal skills and experience
 

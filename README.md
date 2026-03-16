@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Alessandro
 
-M.Sc. in Computer Science and Engineering | University of Bologna, Italy🇮🇹
+M.Sc. in Computer Science and Engineering \| University of Bologna, Italy🇮🇹
 
 I'm in love with programming and I'm really fascinated by the open source world.
 

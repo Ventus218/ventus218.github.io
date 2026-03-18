@@ -14,7 +14,7 @@ down below!
 #### [TOC-it](https://github.com/Ventus218/TOC-it) (Open source)
 
 > [Web utility](https://ventus218.github.io/TOC-it/) to generate the table of
-> contents of a Markdown document.
+> contents of a Markdown document. (About 300 users last year)
 
 #### [SwiftVersionDetector](https://github.com/Ventus218/SwiftVersionDetector) (Open source)
 

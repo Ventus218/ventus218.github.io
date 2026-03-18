@@ -27,38 +27,9 @@
 
 ## Education
 
-##### _July 2019_
-
-> Graduated from Liceo Scientifico Augusto Righi in Bologna
-
-##### _September 2019 - September 2021_
-
-> Attending bachelor's degree program in Computer Engineering at the University
-> of Bologna
-
-##### _September 2021 - June 2023_
-
-> Attending bachelor's degree program in Computer Engineering and Science at the
-> University of Bologna
-
-##### _October 2023_
-
-> Bachelor’s degree in Computer Engineering and Science at the University of
-> Bologna
->
-> Final grade: 106/110
->
-> Thesis:
-> **[ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO](https://amslaurea.unibo.it/29785/)**
-
-##### _September 2023 - June 2025_
-
-> Attending master's degree program in Computer Engineering and Science at the
-> University of Bologna
-
 ##### _March 2026_
 
-> Master’s degree in Computer Engineering and Science at the University of
+> Master’s degree in Computer Science and Engineering at the University of
 > Bologna
 >
 > Final grade: 110/110 cum laude
@@ -69,6 +40,35 @@
 >
 > (My thesis is currently under embargo, but additional details can be shared
 > upon request.)
+
+##### _September 2023 - June 2025_
+
+> Attending master's degree program in Computer Science and Engineering at the
+> University of Bologna
+
+##### _October 2023_
+
+> Bachelor’s degree in Computer Science and Engineering at the University of
+> Bologna
+>
+> Final grade: 106/110
+>
+> Thesis:
+> **[ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE COME CASO DI STUDIO](https://amslaurea.unibo.it/29785/)**
+
+##### _September 2021 - June 2023_
+
+> Attending bachelor's degree program in Computer Science and Engineering at the
+> University of Bologna
+
+##### _September 2019 - September 2021_
+
+> Attending bachelor's degree program in Computer Engineering at the University
+> of Bologna
+
+##### _July 2019_
+
+> Graduated from Liceo Scientifico Augusto Righi in Bologna
 
 ## Personal skills and experience
 
@@ -88,6 +88,13 @@
 > ##### _September 2018 - 2023_
 >
 > Participation in the continuous personal growth program _Soft Skills Academy_
+
+##### Experiences
+
+> ##### _June 2025_
+>
+> Attended the _Lambda Days_ conference on functional programming in Kraków,
+> Poland. Participation generously sponsored by Erlang Solutions.
 
 ## Technical skills
 

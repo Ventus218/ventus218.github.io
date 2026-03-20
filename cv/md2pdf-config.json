@@ -8,7 +8,7 @@
         },
         "printBackground": true
     },
-    "stylesheet": ["cv.css"],
+    "stylesheet": ["cv/style.css"],
   "launch_options": {
     "executablePath": "/usr/bin/chromium",
     "args": ["--no-sandbox", "--disable-setuid-sandbox"]

@@ -2,7 +2,7 @@
 
 ## Personal information
 
-> <img src="./images/me3.jpg" alt="Alessandro Venturini" style="padding: 5px 15px; width: 175px; float: right;">
+> <img src="../images/me3.jpg" alt="Alessandro Venturini" style="padding: 5px 15px; width: 175px; float: right;">
 >
 > |               |                                                               |
 > | ------------- | ------------------------------------------------------------- |

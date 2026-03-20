@@ -4,7 +4,7 @@ M.Sc. in Computer Science and Engineering \| University of Bologna, ItalyðŸ‡®ðŸ‡
 
 I'm in love with programming and I'm really fascinated by the open source world.
 
-If you're curious about my CV you can read it [here](.cv/CurriculumVitae.md) or
+If you're curious about my CV you can read it [here](./cv/CurriculumVitae.md) or
 download a PDF version
 [here](https://github.com/Ventus218/Ventus218/releases/latest/download/CurriculumVitae.pdf).
 

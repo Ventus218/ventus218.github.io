@@ -1,0 +1,289 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Alessandro Venturini
+  headline:
+  location: Bologna, Italy
+  email: ales.ventus21@gmail.com
+  photo: ../images/me3-squared.jpg
+  phone: +39 3313534898
+  # website: https://rendercv.com/
+  social_networks:
+    - network: LinkedIn
+      username: Ventus218
+    - network: GitHub
+      username: Ventus218
+  custom_connections:
+  sections:
+    about_me:
+      - >
+        I am deeply passionate about Computer Science, with a strong focus on
+        its engineering aspects. I strive for technical excellence and aim to
+        build software that has a meaningful impact on the world.
+
+
+        I am curious and tenacious, and I value creating a positive work
+        environment where I can enjoy what I do and build meaningful
+        relationships with my colleagues.
+    work_experience:
+      - company: Oltre Solutions s.r.l.
+        position: 150-hour Curricular Internship
+        date: 2023
+        start_date: 2023-03
+        end_date: 2023-06
+        location: Bologna, Italy
+        highlights:
+          - >
+            I rewrote an Android application and ported it to iOS using
+            Xamarin.Forms (currently in production on the [App
+            Store](https://apps.apple.com/it/app/load-manager/id6448108872?platform=iphone))
+    education:
+      - institution: Alma Mater Studiorum - University of Bologna
+        area: Computer Science and Engineering
+        degree: MSc
+        start_date: 2023-09
+        end_date: 2026-03
+        date: 2026-03
+        location: Cesena, Italy
+        summary:
+        highlights:
+          - "Final grade: 110/110 cum laude"
+          - "Grade Point Average: 29.87/30"
+          - "Thesis: **Effectful Aggregate Computation: towards a monadic view**
+            (currently under embargo, but additional details can be shared upon
+            request)"
+      - institution: Alma Mater Studiorum - University of Bologna
+        area: Computer Science and Engineering
+        degree: BSc
+        start_date: 2021-09
+        end_date: 2023-06
+        date: 2023-10
+        location: Cesena, Italy
+        summary:
+        highlights:
+          - >
+            Thesis: **ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI
+            APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE
+            COME CASO DI STUDIO** (available
+            [here](https://amslaurea.unibo.it/id/eprint/29785/))
+    projects:
+      - label: "[DomoticASW](https://github.com/DomoticASW)"
+        details: >
+          A smart home management system featuring a web app, real-time device
+          monitoring, a visual scripting system for automation, access control,
+          and a custom protocol for smart devices.
+      - label: "[ScalaGameEngine](https://github.com/Ventus218/ScalaGameEngine)"
+        details: >
+          An extensible game engine for Scala exploiting mixins for behavior
+          composition, featuring basic 2D rendering, basic physics and collision
+          handling, a testing DSL, and 3 sample games.
+      - label: "[TOC-it](https://ventus218.github.io/TOC-it)"
+        details: >
+          Web utility to generate the table of contents of a Markdown document.
+          (About 300 users last year)
+      - label: Others
+        details: >
+          All my other projects are listed on my [GitHub
+          profile](https://github.com/Ventus218)
+    technical_skills:
+      - label: Languages
+        details:
+          Scala, Swift, Java, C#, C, Typescript, SQL, POSIX, HTML, CSS, Python,
+          Javascript, PHP, Gleam, Lua, Prolog
+      - label: Frameworks
+        details:
+          SwiftUI, UIKit (iOS), Vapor, Xamarin.Forms, Flutter, .NET MAUI, Akka,
+          Vue, Express, Unity
+      - label: Infrastructure
+        details: Kubernetes, Docker, Kafka, Terraform
+    personal_skills:
+      - label: Languages
+        details: Italian (Native), English (B2)
+      - label: Soft-skills
+        details: Teamwork, Leadership, Proactivity
+
+design:
+  theme: classic
+  # page:
+  #   size: us-letter
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: true
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 79, 144)
+  #   headline: rgb(0, 79, 144)
+  #   connections: rgb(0, 79, 144)
+  #   section_titles: rgb(0, 79, 144)
+  #   links: rgb(0, 79, 144)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: Source Sans 3
+  #     name: Source Sans 3
+  #     headline: Source Sans 3
+  #     connections: Source Sans 3
+  #     section_titles: Source Sans 3
+  #   font_size:
+  #     body: 10pt
+  #     name: 30pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.4em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: true
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  links:
+    # underline: false
+    show_external_link_icon: true
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: true
+  #     display_urls_instead_of_usernames: false
+  #     separator: ''
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_partial_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 1.2em
+  #   space_between_text_based_entries: 0.3em
+  #   show_time_spans_in:
+  #     - experience
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0.2cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: true
+  #   degree_width: 1cm
+  #   summary:
+  #     space_above: 0cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: •
+  #     nested_bullet: •
+  #     space_left: 0.15cm
+  #     space_above: 0cm
+  #     space_between_items: 0cm
+  #     space_between_bullet_and_text: 0.5em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, AREA
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column: '**DEGREE**'
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **COMPANY**, POSITION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: english
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # phrases:
+  #   degree_with_area: DEGREE in AREA
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: today
+  render_command:
+    output_folder: ./rendercv-out
+    design:
+    locale:
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: true
+    dont_generate_html: true
+    dont_generate_typst: false # needed to generate pdf
+    dont_generate_pdf: false
+    dont_generate_png: true
+  bold_keywords: []
+  pdf_title: NAME - CV

@@ -87,8 +87,8 @@ cv:
     technical_skills:
       - label: Languages
         details:
-          Scala, Swift, Java, C#, C, Typescript, SQL, POSIX, HTML, CSS, Python,
-          Javascript, PHP, Gleam, Lua, Prolog
+          Scala, Swift, Java, C#, C, TypeScript, SQL, POSIX shell, HTML, CSS,
+          Python, JavaScript, PHP, Lua, Prolog
       - label: Frameworks
         details:
           SwiftUI, UIKit (iOS), Vapor, Xamarin.Forms, Flutter, .NET MAUI, Akka,
@@ -98,9 +98,9 @@ cv:
     personal_skills:
       - label: Languages
         details: Italian (Native), English (B2)
-      - label: Soft-skills
+      - label: Soft skills
         details:
-          Teamwork, Proactivity, Problem solving, Quick learner, Leadership
+          Teamwork, Proactiveness, Problem-solving, Quick learner, Leadership
     personal_growth_and_experiences:
       - name: Lambda Days
         date: 2025-06
@@ -113,7 +113,7 @@ cv:
         start_date: 2018-09
         end_date: 2023
         summary:
-          Continous personal growth program focusing on practical soft-skills
+          Continuous personal growth program focusing on practical soft-skills
           training.
 
 design:

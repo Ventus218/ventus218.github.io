@@ -4,7 +4,7 @@ cv:
   headline:
   location: Bologna, Italy
   email: ales.ventus21@gmail.com
-  photo: ../images/me3-squared.jpg
+  photo: ../images/me3-round.png
   phone: +39 3313534898
   # website: https://rendercv.com/
   social_networks:
@@ -99,12 +99,27 @@ cv:
       - label: Languages
         details: Italian (Native), English (B2)
       - label: Soft-skills
-        details: Teamwork, Leadership, Proactivity
+        details:
+          Teamwork, Proactivity, Problem solving, Quick learner, Leadership
+    personal_growth_and_experiences:
+      - name: Lambda Days
+        date: 2025-06
+        location: Kraków, Poland
+        summary: >
+          Conference on functional programming. Participation generously
+          sponsored by Erlang Solutions.
+      - name: Soft Skills Academy
+        location: Bologna, Italy
+        start_date: 2018-09
+        end_date: 2023
+        summary:
+          Continous personal growth program focusing on practical soft-skills
+          training.
 
 design:
   theme: classic
-  # page:
-  #   size: us-letter
+  page:
+    size: a4
   #   top_margin: 0.7in
   #   bottom_margin: 0.7in
   #   left_margin: 0.7in
@@ -170,14 +185,14 @@ design:
   #   line_thickness: 0.5pt
   #   space_above: 0.5cm
   #   space_below: 0.3cm
-  # sections:
-  #   allow_page_break: true
-  #   space_between_regular_entries: 1.2em
+  sections:
+    #   allow_page_break: true
+    space_between_regular_entries: 0.9em
   #   space_between_text_based_entries: 0.3em
   #   show_time_spans_in:
   #     - experience
-  # entries:
-  #   date_and_location_width: 4.15cm
+  entries:
+    date_and_location_width: 3cm
   #   side_space: 0.2cm
   #   space_between_columns: 0.1cm
   #   allow_page_break: false
@@ -193,8 +208,10 @@ design:
   #     space_above: 0cm
   #     space_between_items: 0cm
   #     space_between_bullet_and_text: 0.5em
-  # templates:
-  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  templates:
+    footer:
+      "I authorise the processing of personal data contained within my CV,
+      according to GDPR (EU) 2016/679, Article 6.1(a)."
   #   top_note: '*LAST_UPDATED CURRENT_DATE*'
   #   single_date: MONTH_ABBREVIATION YEAR
   #   date_range: START_DATE – END_DATE

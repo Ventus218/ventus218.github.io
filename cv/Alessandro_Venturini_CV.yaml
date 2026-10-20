@@ -39,6 +39,17 @@ cv:
     education:
       - institution: Alma Mater Studiorum - University of Bologna
         area: Computer Science and Engineering
+        degree: PhD
+        # start_date: 2026-11
+        # end_date: present
+        date: "Starting in Nov 2026"
+        location: Cesena, Italy
+        summary:
+          "Researching a formally verifiable AI-assisted development methodology
+          for Collective Systems ([FoMaSE
+          project](https://fis3-fomase.github.io))"
+      - institution: Alma Mater Studiorum - University of Bologna
+        area: Computer Science and Engineering
         degree: MSc
         start_date: 2023-09
         end_date: 2026-03
@@ -48,9 +59,8 @@ cv:
         highlights:
           - "Final grade: 110/110 cum laude"
           - "Grade Point Average: 29.87/30"
-          - "Thesis: **Effectful Aggregate Computation: towards a monadic view**
-            (currently under embargo, but additional details can be shared upon
-            request)"
+          - "Thesis: [**Effectful Aggregate Computation: towards a monadic
+            view**](https://amslaurea.unibo.it/id/eprint/38088/)"
       - institution: Alma Mater Studiorum - University of Bologna
         area: Computer Science and Engineering
         degree: BSc
@@ -61,10 +71,8 @@ cv:
         summary:
         highlights:
           - >
-            Thesis: **ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI
-            APPLICAZIONI MULTIPIATTAFORMA E REALIZZAZIONE DI UN’APPLICAZIONE
-            COME CASO DI STUDIO** (available
-            [here](https://amslaurea.unibo.it/id/eprint/29785/))
+            Thesis: [**ANALISI DEL FRAMEWORK .NET MAUI PER LO SVILUPPO DI
+            ...**](https://amslaurea.unibo.it/id/eprint/29785/)
     projects:
       - label: "[DomoticASW](https://github.com/DomoticASW)"
         details: >
@@ -105,8 +113,8 @@ cv:
         date: 2025-06
         location: Kraków, Poland
         summary: >
-          Conference on functional programming. Participation generously
-          sponsored by Erlang Solutions.
+          Conference on functional programming. Participation sponsored by
+          Erlang Solutions.
       - name: Soft Skills Academy
         location: Bologna, Italy
         start_date: 2018-09
